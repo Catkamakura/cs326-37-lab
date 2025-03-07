@@ -4,14 +4,14 @@
 function calculateSquareRoot(value) {
     
     // return the square root of the value
-    return Math.sqrt(value);
+
 }
 
 // TODO: Implement square function
 function calculateSquare(value) {
     // Hint: Use exponentiation
     // return the square root of the value
-    return value**2;
+
 }
 
 // BUG: FIX reciprocal function
