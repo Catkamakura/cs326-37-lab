@@ -4,7 +4,7 @@
 function calculateSquareRoot(value) {
     
     // return the square root of the value
-
+    return Math.sqrt(value);
 }
 
 // TODO: Implement square function
